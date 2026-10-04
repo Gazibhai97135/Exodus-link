@@ -45,7 +45,7 @@ FOOTER = f"\n\n━━━━━━━━━━━━━━━━━━\n👨‍�
 BOT_TOKEN    = ""
 BOT_ID       = 0
 BOT_USERNAME = ""
-BASE_URL     = "http://localhost:5000"
+BASE_URL     = "https://exodus-link-bypassser.onrender.com "
 LOCAL_PORT   = 5000
 ADMIN_IDS    = set()
 
